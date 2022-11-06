@@ -4,15 +4,14 @@
 
 ## Available Scripts
 
-In the project directory, you can run:
+Goto Frontend directory and type following snippet of code:
 
 ### `npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+\
 
 ### Model Needed! Download from here
 Download from here ->[googledriveLink](https://drive.google.com/file/d/1hyBaRrzWlyftyz3PGFw1cSLDwfvsvWc2/view?usp=sharing)
