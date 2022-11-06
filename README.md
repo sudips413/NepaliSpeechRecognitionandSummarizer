@@ -11,7 +11,8 @@ Goto Frontend directory and type following snippet of code:
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-\
+### run backend
+run this in terminal: `uvicorn api:app --reload`
 
 ### Model Needed! Download from here
 Download from here ->[googledriveLink](https://drive.google.com/file/d/1hyBaRrzWlyftyz3PGFw1cSLDwfvsvWc2/view?usp=sharing)
