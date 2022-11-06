@@ -2,7 +2,7 @@
 
 
 
-## Available Scripts
+### Run Frontend
 
 Goto Frontend directory and type following snippet of code:
 
@@ -11,7 +11,7 @@ Goto Frontend directory and type following snippet of code:
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-### run backend
+### Run backend
 run this in terminal: `uvicorn api:app --reload`
 
 ### Model Needed! Download from here
